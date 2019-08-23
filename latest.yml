@@ -1,0 +1,8 @@
+version: 0.0.2
+files:
+  - url: KINT-Setup-0.0.2.exe
+    sha512: M2NWduRmLT7vRiwI3B5vSt5zWts5hXeaE4rU93+do6n+KZK5QQ5rAGhYnaKrIXuIJg9sTAqPBjkgQHTdFimuvw==
+    size: 79179227
+path: KINT-Setup-0.0.2.exe
+sha512: M2NWduRmLT7vRiwI3B5vSt5zWts5hXeaE4rU93+do6n+KZK5QQ5rAGhYnaKrIXuIJg9sTAqPBjkgQHTdFimuvw==
+releaseDate: '2019-08-23T09:36:13.292Z'
